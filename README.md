@@ -2,7 +2,7 @@
 
 
 ## Sobre o projeto
-Projeto desenvolvido durante o curso CodeBoost, e teve como objetivo criar uma landing page utilizando as stacks HMTL, CSS/SASS e JavaScript.
+Projeto desenvolvido durante o curso CodeBoost, e teve como objetivo criar uma landing page utilizando NextJS e Tailwind.
 [CodeBoost](https://codeboost.com.br/)
 
 ## Stack Utilizada
