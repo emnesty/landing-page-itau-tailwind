@@ -17,6 +17,10 @@ Resultado final:https://landing-page-itau-tailwind.vercel.app/
 ![Landing Page](https://i.postimg.cc/gc9gPh51/screencapture-landing-page-itau-tailwind-vercel-app-2023-12-20-16-38-33.png)
 
 
+![alt text](https://github.com/emnesty/landing-page-itau-tailwind/blob/main/screencapture-landing-page-itau-tailwind-vercel-app-2023-12-20-16_38_33.png)
+
+
+
 
 ## Aprendizados
 Sendo esse o primeiro projeto com Tailwind pude ver que todo o aprendizado que tive aprendendo CSS se fez valer a pena, as classes são fáceis de utilizar e deixa o desenvolvimento muito mais rápido.
