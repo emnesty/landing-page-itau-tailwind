@@ -14,10 +14,8 @@ Projeto desenvolvido durante o curso CodeBoost, e teve como objetivo criar uma l
 ## Resultado
 Resultado final:https://landing-page-itau-tailwind.vercel.app/
 
-![Landing Page](https://i.postimg.cc/gc9gPh51/screencapture-landing-page-itau-tailwind-vercel-app-2023-12-20-16-38-33.png)
 
-
-![alt text](https://github.com/emnesty/landing-page-itau-tailwind/blob/main/screencapture-landing-page-itau-tailwind-vercel-app-2023-12-20-16_38_33.png)
+![Landing Page](https://github.com/emnesty/landing-page-itau-tailwind/blob/main/screencapture-landing-page-itau-tailwind-vercel-app-2023-12-20-16_38_33.png)
 
 
 
